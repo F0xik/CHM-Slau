@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\SLAU Iteracii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B171FC-6C10-4658-92D5-A59455768BB5}|SLAU Iteracii\\SLAU Iteracii.csproj|d:\\repos\\slau iteracii\\slau iteracii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B171FC-6C10-4658-92D5-A59455768BB5}|SLAU Iteracii\\SLAU Iteracii.csproj|solutionrelative:slau iteracii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 270,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\SLAU Iteracii\\SLAU Iteracii\\Program.cs",
+              "RelativeDocumentMoniker": "SLAU Iteracii\\Program.cs",
+              "ToolTip": "D:\\repos\\SLAU Iteracii\\SLAU Iteracii\\Program.cs",
+              "RelativeToolTip": "SLAU Iteracii\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:51:43.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
